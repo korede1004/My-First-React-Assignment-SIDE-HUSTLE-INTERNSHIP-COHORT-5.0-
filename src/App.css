@@ -1,0 +1,12 @@
+.mycv {
+  /* text-align: center; */
+  /* background-color: red; */
+  width: 60%;
+  max-width: 60%;
+  margin: auto;
+}
+.body {
+  /* background-color: pink; */
+  width: 85%;
+  margin-left:60px;
+}
